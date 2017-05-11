@@ -1,0 +1,19 @@
+# Base_My_Application
+<h3>常用Utils类汇总</h3><br>
+1.AdvancedCountdownTimer，计时器<br><br>
+2.Base64Coder，Base64转换工具集<br><br>
+3.BitmapUtil:Bitmap转换，压缩等工具集<br><br>
+4.CallPhoneUtils,拨打电话工具<br><br>
+5.ContactUtils，获取联系人信息工具<br><br>
+6.DateUtil,时间转换工具<br><br>
+7.DensityUtils，设计转换工具，dp2px/px2dp....<br><br>
+8.EasyToast，吐司工具集<br><br>
+9.GetPhotoUtil，系统图片获取工具集<br><br>
+10.IntentUtil，Intent非空判断<br><br>
+11.KeyBoardUtil，输入法操作集<br><br>
+12.SPUtil，SP操作集<br><br>
+13.Utils，其他常用快捷操作<br><br>
+14.WindowUtil，屏幕尺寸信息获取集<br>
+....<br>
+....<br>
+.....(更多待补充)
